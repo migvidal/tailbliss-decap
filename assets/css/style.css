@@ -2651,10 +2651,6 @@ video {
   margin-right: -0.75rem;
 }
 
-.-mr-40 {
-  margin-right: -10rem;
-}
-
 .-mt-72 {
   margin-top: -18rem;
 }
@@ -3200,11 +3196,6 @@ video {
   padding-bottom: 0.75rem;
 }
 
-.py-6 {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
-}
-
 .py-8 {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -3229,10 +3220,6 @@ video {
 
 .pb-4 {
   padding-bottom: 1rem;
-}
-
-.pl-4 {
-  padding-left: 1rem;
 }
 
 .pr-2 {
@@ -4745,16 +4732,8 @@ EmojiSymbols;
     display: grid;
   }
 
-  .lg\:h-full {
-    height: 100%;
-  }
-
   .lg\:w-1\/2 {
     width: 50%;
-  }
-
-  .lg\:w-auto {
-    width: auto;
   }
 
   .lg\:w-full {
@@ -4822,21 +4801,12 @@ EmojiSymbols;
     padding-bottom: 4rem;
   }
 
-  .lg\:py-20 {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-  }
-
   .lg\:pb-16 {
     padding-bottom: 4rem;
   }
 
   .lg\:pb-24 {
     padding-bottom: 6rem;
-  }
-
-  .lg\:pl-12 {
-    padding-left: 3rem;
   }
 
   .lg\:pt-12 {
