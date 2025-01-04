@@ -17,6 +17,7 @@
         document.documentElement.classList.remove('dark')
     }
 </script>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 {{ $styles := resources.Get "/css/style.css" | postCSS }}
 
 {{ if hugo.IsProduction }}
